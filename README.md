@@ -61,6 +61,6 @@ guide/install-kubectl.html
 ➔ Install aws-iam-authenticator
 https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html
 ➔ Install eksctl
-https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html or
+https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html  or
 https://eksctl.io/introduction/installation/
 
