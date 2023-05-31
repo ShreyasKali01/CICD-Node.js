@@ -59,10 +59,8 @@ uide/cli-chap-install.html (install cli v2)
 https://docs.aws.amazon.com/eks/latest/user
 guide/install-kubectl.html
 ➔ Install aws-iam-authenticator
-https://docs.aws.amazon.com/eks/latest/user
-guide/install-aws-iam-authenticator.html
+https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html
 ➔ Install eksctl
-https://docs.aws.amazon.com/eks/latest/user
-guide/getting-started-eksctl.html or
+https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html or
 https://eksctl.io/introduction/installation/
 
